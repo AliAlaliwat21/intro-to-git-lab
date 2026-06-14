@@ -6,24 +6,24 @@ PART 1: HTML
 1. In your own words, what kind of things can HTML put on a web page?
 
 ANSWER:
-
+HTML can add a wide range of features and aspects of which are, 1.The actual texts and containers that have the content of the website itself. 2.The hypertext link or linking a web page to another. 3.Adding the functional base of the website you want to create.
 ======================================================================
 
 2. What does HTML stand for?
 
 ANSWER:
-
+Hyper text markup language
 ======================================================================
 
 3. Look up one HTML tag. Examples: h1, p, a, img.
 
 Which tag did you choose?
 
-ANSWER:
+ANSWER:a
 
 What does that tag do?
 
-ANSWER:
+ANSWER:Hyperlink tag in which takes the content inside the tag and turns it into a clickable link and by default changes the color while simultaneously underlining it to show that it is clickable, as well as the target website you want it to link to can be targeted inside the a tag.
 
 ======================================================================
 
@@ -31,7 +31,7 @@ ANSWER:
 
 <p>Hello world!</p>
 
-ANSWER:
+ANSWER:One, the p tag showing the open and close brackets.
 
 ======================================================================
 
@@ -40,19 +40,20 @@ ANSWER:
 
 <h1>Welcome to my website</h1>
 
-ANSWER:
+ANSWER: "Welcome to my website" is the content inside the h1 tag.
 
 ======================================================================
 
 6. How does a closing tag differ from an opening tag?
 
 ANSWER:
-
+a closing tag contains the / symbol inside it to show where the tag begins and where it ends.
 ======================================================================
 
 7. What is the difference between a tag and an element
 
-ANSWER:
+ANSWER:Tag is the markup or letters inside the brackets itself like: <p> or <h1>
+ while an element contains the start tag the content inside the tag with the end tag like: <h1> my paragraph> </h1>
 
 ======================================================================
 
@@ -60,20 +61,20 @@ PART 2: CSS
 
 8. In your own words, what is the main job of CSS?
 
-ANSWER:
+ANSWER:CSS is largely used to style the elements made in HTML, positioning the containers and elements and decorate the website to your personal liking.
 
 ======================================================================
 
 9. What does CSS stand for?
 
 
-ANSWER:
+ANSWER:Cascading Style Sheets
 
 ======================================================================
 
 10. A developer can put CSS in a separate CSS file.  Why might this be helpful when building a website?
 
-ANSWER:
+ANSWER:It might be useful in an organizational standpoint so that the code does not appear too long and intimidating while also making it easier to read.
 
 ======================================================================
 
@@ -81,13 +82,13 @@ PART 3: JAVASCRIPT CONNECTION
 
 11. In your own words, what can JavaScript do?
 
-ANSWER:
+ANSWER:Javascript enables the HTML code and website that was created to become fully functional and giving it the ability to store, calculate and validate data as it is the programming language of the web and makes websites interactable.
 
 ======================================================================
 
 12. Are JavaScript and Java the same language?
 
-ANSWER:
+ANSWER:No, they are completely different as JavaScript was invented by brendan Eich in 1995 and Java was invented by Sun Microsystems. They completely differ in design and concept as javascript is used for front and backend web development and java is used in systems, softwares and applications but they do have similarities in their syntaxes.
 
 ======================================================================
 
